@@ -1,0 +1,22 @@
+{
+  "name": "arnehendriksen/evernote-helpers",
+  "description": "PHP helper classes for Evernote.",
+  "keywords": ["evernote", "enex", "php", "helper"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arne Hendriksen",
+      "email": "arne.hendriksen@gmail.com",
+      "homepage": "https://arnehendriksen.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "arnehendriksen\\EvernoteHelpers\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
